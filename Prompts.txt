@@ -1,0 +1,69 @@
+Susan - Director / Narrator:
+
+CoPilot Prompt:
+
+Create a full-body cartoon image of a female named Susan. She is approximately 45 years old, with dark caramel skin, medium-length brown hair, and brown eyes. Susan is wearing professional attire: a dark blazer over a light blue shirt, paired with grey dress pants and grey shoes. An ID badge hangs on a lanyard around her neck, and the badge is blank. She should be smiling and waving at the camera, standing in a confident pose. The background should be transparent.
+
+Optimized Prompt:
+
+"Full-body cartoon illustration of a professional woman named Susan, age 45, with dark caramel skin, medium-length brown hair, and brown eyes. She is wearing a dark blazer over a light blue shirt, grey dress pants, and grey shoes. An ID badge hangs on a lanyard around her neck (badge is blank). Susan is smiling and waving at the viewer, standing in a confident pose. Clean, polished cartoon style, transparent background."
+
+Export as PNG with transparency for easy placement over brand‑colored shapes in slides/LMS.
+Keep a consistent color palette (e.g., blazer #2F3A4A, shirt #7EB6E8, pants #6E7175, skin #A7673E) so Susan stays on‑brand across modules. Save a seed/prompt preset for exact character consistency in future scenes (e.g., “Susan at a podium,” “Susan pointing at a chart,” etc.).
+
+
+Georgia / Direct Report:
+
+
+Create a full-body cartoon illustration of a woman named Georgia, age 32. She has caramel-brown skin (#AE7C58), short dark brown hair (#4A2E22) styled in a soft, slightly wavy pixie cut, and brown eyes (#4B382A).
+
+Georgia is wearing a light blue polo shirt (#94C3E4) with a miniature gold WRAAA butterfly logo (#F4C542) on the left chest. She also wears khaki pants (#CBB78A) with a medium brown belt (#7A5631) and brown flats (#5A3C28).
+
+Around her neck is a white lanyard (#FFFFFF) with a blank rectangular ID badge.
+
+Her expression is neutral and friendly, with no shading around the mouth. Her arms rest naturally at her sides.
+
+Style the artwork as a clean, simple 2D cartoon, with smooth outlines and soft shading.
+
+The background must be fully transparent.
+
+Output as a PNG.
+
+
+Ruben / Supervisor:
+ 
+Create a full-body cartoon illustration of a man named Ruben, age 30. He has light brown skin (#AE7C58) and short brown hair (#4A2E22) and brown eyes (#4B382A).
+
+Ruben is wearing a light green button-down shirt (#9AC27B) with black dress pants and a black belt. 
+
+Around his neck is a white lanyard (#FFFFFF) with a blank rectangular ID badge.
+
+His expression is neutral and friendly, with no shading around the mouth. His arms rest naturally at her sides.
+
+Style the artwork as a clean, simple 2D cartoon, with smooth outlines and soft shading.
+
+The background must be fully transparent.
+
+Output as a PNG.
+
+
+Naomi / Compliance Generalist:
+
+Create a full-body cartoon illustration of a woman named Naomi, age 30.
+
+She has light skin (#F4D4B4) and straight shoulder-length black hair (#1C1C1C).
+
+Naomi is wearing a light-grey cardigan (#C0C0C0) over a dark-grey shirt (#4B4B4B) with black dress pants (#000000).
+
+Her belt is dark grey (#4B4B4B) and her shoes are black (#000000).
+
+Around her neck is a white lanyard (#FFFFFF) with a blank rectangular ID badge.
+
+Her expression is neutral and friendly, with no shading around the mouth. Her arms rest naturally at her sides.
+
+Style the artwork as a clean, simple 2D cartoon, with smooth outlines and soft shading.
+
+The background must be fully transparent.
+
+Output as a PNG.
+
